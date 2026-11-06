@@ -1,0 +1,9 @@
+attr,method,auc,gap,es_auc
+age,ERM,0.872,0.035,0.829
+age,ERM + group BN,0.837,0.069,0.783
+age,ERM + recal (all),0.871,0.035,0.828
+age,Reweight,0.861,0.027,0.82
+sex,ERM,0.872,0.009,0.864
+sex,ERM + group BN,0.87,0.004,0.867
+sex,ERM + recal (all),0.871,0.004,0.866
+sex,Reweight,0.861,0.033,0.834
